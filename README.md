@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=228B22&center=true&vCenter=true&width=600&lines=A+Passionate+MERN+Stack+Developer+from+Pakistan;Frontend+%7C+Backend+%7C+React+%7C+Node.js;Love+to+build+awesome+projects" alt="Typing Animation" />
 </p>
----
-
 <!-- Intro Section with GIF -->
 <table>
   <tr>
@@ -25,23 +23,16 @@
     </td>
   </tr>
 </table>
-
----
-
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harisalib15&label=Profile%20views&color=0e75b6&style=flat" alt="harisalib15" />
 </p>
-
 <!-- Trophy Section -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=radical&margin-w=10&margin-h=10" alt="harisalib15 trophies" />
   </a>
 </p>
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/haris ali asghar a" target="blank">
@@ -51,9 +42,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
----
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -72,5 +60,3 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
-
-and also comment where you put this
