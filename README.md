@@ -2,11 +2,15 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" 
        alt="Banner" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:228B22&height=250&section=header&text=Hi%20👋,%20I'm%20Haris%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"width="100% />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:228B22&height=250&section=header&text=Hi%20👋,%20I'm%20Haris%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=228B22&center=true&vCenter=true&width=600&lines=A+Passionate+MERN+Stack+Developer+from+Pakistan;Frontend+%7C+Backend+%7C+React+%7C+Node.js;Love+to+build+awesome+projects" alt="Typing Animation" />
 </p>
+
 ---
 
 <!-- Intro Section with GIF -->
@@ -39,6 +43,22 @@
     <img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=radical&margin-w=10&margin-h=10" alt="harisalib15 trophies" />
   </a>
 </p>
+
+---
+
+<!-- 🌟 Pac-Man Contribution Graph Section -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  _Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">Pac-Man Contribution Graph</a>_
+</p>
+<!-- 🌟 End Pac-Man Section -->
 
 ---
 
