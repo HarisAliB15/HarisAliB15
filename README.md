@@ -2,15 +2,11 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" 
        alt="Banner" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:228B22&height=250&section=header&text=Hi%20👋,%20I'm%20Haris%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" width="100%" />
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:228B22&height=250&section=header&text=Hi%20👋,%20I'm%20Haris%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"width="100% />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=228B22&center=true&vCenter=true&width=600&lines=A+Passionate+MERN+Stack+Developer+from+Pakistan;Frontend+%7C+Backend+%7C+React+%7C+Node.js;Love+to+build+awesome+projects" alt="Typing Animation" />
 </p>
-
 ---
 
 <!-- Intro Section with GIF -->
@@ -46,22 +42,6 @@
 
 ---
 
-<!-- 🌟 Pac-Man Contribution Graph Section -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center">
-  _Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">Pac-Man Contribution Graph</a>_
-</p>
-<!-- 🌟 End Pac-Man Section -->
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/haris ali asghar a" target="blank">
@@ -92,3 +72,5 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
+
+and also comment where you put this
