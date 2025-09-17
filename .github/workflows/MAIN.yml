@@ -1,0 +1,30 @@
+name: Generate Pac-Man Game
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch:         # allows manual run from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Pac-Man Game
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man (Snake-style graph)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: harisalib15
+          outputs: dist/pacman.svg
+
+      - name: Commit generated SVG to 'output' branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "chore: generated pacman svg"
+          add: "dist/*"
