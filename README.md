@@ -1,4 +1,31 @@
+💫 Hi 👋, I'm Haris Ali  
+**A passionate MERN Stack Developer || React Native Developer || Aspiring Mobile App Engineer from Pakistan**  
 
+📧 **Email Me:** **haris.asghar.developer@gmail.com** for Collaboration/Projects/Anything Else 😊  
+
+---
+
+## 🔭 Currently Working On  
+- 💬 **Chat App** – Real-time messaging app (MERN + Socket.io)  
+- 🎬 **Movie App** – Browse movies with ratings, cast info, and recommendations  
+- 📥 **Snap Savior** – Video downloader for YouTube, Instagram, TikTok (React + Axios)  
+- ✅ **Task Manager App** – React Native + Firebase with modals & FlatList  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **Backend Development** (Node.js, Express, MongoDB, JWT Authentication)  
+- **Cloud Deployment** (Render, Vercel, Firebase, AWS basics)  
+- **CI/CD Pipelines** for automated deployment  
+## 👯 Looking to Collaborate On  
+- MERN Stack Projects  
+- Mobile Apps (React Native/Expo)  
+- Full-Stack Applications  
+## 💬 Ask Me About  
+- MERN Stack Development  
+- React.js, React Native, Expo  
+- Firebase & Authentication  
+- Frontend Development  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harisali562) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Haris Ali Asghar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haris.asghar.developer@gmail.com) 
 
