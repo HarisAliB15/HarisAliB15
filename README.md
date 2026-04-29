@@ -1,109 +1,144 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c2a,50:1a7a45,100:2ea86a&height=220&section=header&text=Haris%20Ali%20Asghar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Pakistan&descSize=18&descAlignY=58&descColor=c8f7e0" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2ea86a&center=true&vCenter=true&width=650&lines=Building+full-stack+web+experiences+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Currently+shipping+an+AI+Voice+Assistant+%F0%9F%A4%96;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d1f,100:0d1117&height=200&section=header&text=Haris%20Ali%20Asghar&fontSize=55&fontColor=39d353&animation=twinkling&fontAlignY=50&stroke=39d353&strokeWidth=1" width="100%" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=39D353&center=true&vCenter=true&width=700&lines=full-stack+dev+who+actually+ships+%F0%9F%9A%80;MERN+Stack+%7C+React+Native+%7C+Firebase;building+an+AI+Voice+Assistant+rn+%F0%9F%A4%96;from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+world+%F0%9F%8C%8D;open+to+work+%E2%80%94+let%27s+build+something+crazy)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
-```javascript
+```ts
 const haris = {
-  name: "Haris Ali Asghar",
-  role: "MERN Stack Developer",
-  location: "Pakistan 🇵🇰",
-  currentWork: ["AI Voice Assistant", "Movie App"],
-  learning: ["Advanced Node.js & Express", "JWT Authentication", "Cloud Deployment (Render, Vercel, AWS)"],
-  passions: ["Clean code", "Great UX", "Scalable backends"],
-  contact: "haris.asghar.developer@gmail.com",
-  openToWork: true
+  name       : "Haris Ali Asghar",
+  title      : "MERN Stack Developer 🧠",
+  location   : "Multan, Pakistan 🇵🇰",
+  building   : ["AI Voice Assistant 🤖", "Movie App 🎬"],
+  obsessing  : ["Node.js internals", "JWT Auth flows", "Cloud infra", "CI/CD"],
+  ask_me     : ["React.js", "React Native", "Expo", "Firebase", "Full-Stack"],
+  email      : "haris.asghar.developer@gmail.com",
+  vibe       : "ship fast · learn faster · never settle 🔥",
+  openToWork : true  // hire me. seriously.
 };
 ```
 
 ---
 
-## 🚀 Current Focus
+## 🔥 What I'm on rn
 
-- 🔭 Building an **AI Voice Assistant** and a **Movie App**
-- 🌱 Deepening expertise in **Backend Architecture**, **CI/CD Pipelines**, and **Cloud Deployment**
-- 💬 Happy to chat about **React.js**, **React Native**, **Firebase**, **Expo**, and **Full-Stack Development**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| | |
+|--|--|
+| 🤖 | Shipping an **AI Voice Assistant** — because talking to a UI is the future |
+| 🎬 | Building a **Movie App** with real-time data + slick UX |
+| ☁️ | Learning **cloud deployment** (Render · Vercel · Firebase · AWS basics) |
+| ⚙️ | Setting up **CI/CD pipelines** so my code deploys itself |
+| 🔐 | Getting deep into **JWT Auth** and secure backend patterns |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack I ride with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisalib15&show_icons=true&theme=algolia&border_radius=10&hide_border=true&count_private=true" height="165" alt="Haris's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalib15&layout=compact&theme=algolia&border_radius=10&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisalib15&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## 🏆 GitHub Trophies
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=algolia&margin-w=8&margin-h=8&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies" />
-</p>
+### 🧰 Tools & Languages
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/haris-ali-asghar-a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/harisali526" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:haris.asghar.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harisalib15&label=Profile+Views&color=2ea86a&style=flat-square" alt="Profile Views" />
-</p>
+## 📊 Numbers don't lie
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea86a,100:0f4c2a&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harisalib15&show_icons=true&theme=github_dark_dimmed&border_radius=12&hide_border=false&border_color=39d353&count_private=true&include_all_commits=true&ring_color=39d353&icon_color=39d353&title_color=39d353" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalib15&layout=compact&theme=github_dark_dimmed&border_radius=12&hide_border=false&border_color=39d353&title_color=39d353&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisalib15&theme=github-dark-blue&hide_border=false&border=39d353&ring=39d353&fire=ff9900&currStreakLabel=39d353&sideLabels=39d353&dates=888888" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisalib15&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=false&border_color=39d353" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=darkhub&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
+
+</div>
+
+---
+
+## 💬 A word from me
+
+<div align="center">
+
+> *"Most people dream about building something. I just open VS Code and start."*
+>
+> — Haris, probably at 2am 🌙
+
+</div>
+
+---
+
+## 🌐 Find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-ali-asghar-a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harisali526)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haris.asghar.developer@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harisalib15&label=Profile+Views&color=39d353&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:0d1117&height=130&section=footer&text=let's+build+something+legendary+%F0%9F%9A%80&fontSize=18&fontColor=39d353&animation=twinkling" width="100%" />
+
+</div>
