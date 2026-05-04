@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=39D353&center=true&vCenter=true&width=700&lines=full-stack+dev+who+actually+ships+%F0%9F%9A%80;MERN+Stack+%7C+React+Native+%7C+Firebase;building+an+AI+Voice+Assistant+rn+%F0%9F%A4%96;from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+world+%F0%9F%8C%8D;open+to+work+%E2%80%94+let%27s+build+something+crazy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=39D353&center=true&vCenter=true&width=700&lines=mern+stack+dev+who+actually+ships+%F0%9F%9A%80;react+native+%7C+expo+%7C+firebase+%7C+ci%2Fcd;building+an+ai+voice+assistant+rn+%F0%9F%A4%96;gymPro+app+%E2%80%94+ci+pipeline+live+%E2%9C%85;from+pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+world+%F0%9F%8C%8D;open+to+work+%E2%80%94+let%27s+build+something+crazy)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,112 +16,125 @@
 
 ```ts
 const haris = {
-  name       : "Haris Ali Asghar",
-  title      : "MERN Stack Developer 🧠",
-  location   : "Multan, Pakistan 🇵🇰",
-  building   : ["AI Voice Assistant 🤖", "Movie App 🎬"],
-  obsessing  : ["Node.js internals", "JWT Auth flows", "Cloud infra", "CI/CD"],
-  ask_me     : ["React.js", "React Native", "Expo", "Firebase", "Full-Stack"],
-  email      : "haris.asghar.developer@gmail.com",
-  vibe       : "ship fast · learn faster · never settle 🔥",
-  openToWork : true  // hire me. seriously.
+  name              : "Haris Ali Asghar",
+  role              : "MERN Stack Developer",
+  location          : "Multan, Pakistan",
+  currently_building: ["AI Voice Assistant", "GymPro App"],
+  obsessing_over    : ["CI/CD pipelines", "Node internals", "JWT auth", "Cloud infra"],
+  ask_me_about      : ["React", "React Native", "Expo", "Firebase", "Full-Stack"],
+  email             : "haris.asghar.developer@gmail.com",
+  vibe              : "ship fast · learn faster · never settle",
+  open_to_work      : true  // hire me. seriously.
 };
 ```
 
 ---
 
-## 🔥 What I'm on rn
+## what i'm on rn
 
 | | |
 |--|--|
-| 🤖 | Shipping an **AI Voice Assistant** — because talking to a UI is the future |
-| 🎬 | Building a **Movie App** with real-time data + slick UX |
-| ☁️ | Learning **cloud deployment** (Render · Vercel · Firebase · AWS basics) |
-| ⚙️ | Setting up **CI/CD pipelines** so my code deploys itself |
-| 🔐 | Getting deep into **JWT Auth** and secure backend patterns |
+| 🤖 | **AI Voice Assistant** — because typing is old, talking is the future |
+| 💪 | **GymPro App** — React Native + Expo + Firebase + CI/CD pipeline live ✅ |
+| ⚙️ | **CI/CD** — Fastlane + GitHub Actions, green checkmarks on every push |
+| ☁️ | **Cloud deployment** — Render · Vercel · Firebase · AWS basics |
+| 🔐 | **JWT Auth** — getting deep into secure backend patterns |
 
 ---
 
-## 🛠️ Stack I ride with
+## projects
+
+### 💪 GymPro — Gym Companion App
+> React Native · Expo · Firebase · Fastlane · GitHub Actions
+
+Full-featured gym companion with workout plans, nutrition tracking, and progress analytics. CI pipeline runs automatically on every push — auto lint + build checks.
+
+![CI](https://img.shields.io/github/actions/workflow/status/HarisAliB15/GymPro/ci.yml?label=CI&style=flat-square&color=39d353&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/stack-React%20Native%20%2B%20Expo-39d353?style=flat-square&labelColor=0d1117)
+
+**Features:**
+- 🏋️ Workout plans with exercise tracking
+- 🍎 Nutrition screen
+- 📊 Progress charts
+- 🔐 Firebase authentication
+- ⚙️ CI/CD with Fastlane + GitHub Actions
+
+---
+
+### 🤖 AI Voice Assistant
+> Node.js · NLP · Real-time
+
+Talking to a UI is the future. Building it now.
+
+---
+
+## stack
 
 <div align="center">
 
-### ⚡ Frontend
+### frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend
+### backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-### 🧰 Tools & Languages
+### devops & tools
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+
+### languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Numbers don't lie
+## numbers don't lie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harisalib15&show_icons=true&theme=github_dark_dimmed&border_radius=12&hide_border=false&border_color=39d353&count_private=true&include_all_commits=true&ring_color=39d353&icon_color=39d353&title_color=39d353" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harisalib15&show_icons=true&theme=github_dark_dimmed&border_radius=12&border_color=39d353&count_private=true&include_all_commits=true&ring_color=39d353&icon_color=39d353&title_color=39d353" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalib15&layout=compact&theme=github_dark_dimmed&border_radius=12&hide_border=false&border_color=39d353&title_color=39d353&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalib15&layout=compact&theme=github_dark_dimmed&border_radius=12&border_color=39d353&title_color=39d353&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisalib15&theme=github-dark-blue&hide_border=false&border=39d353&ring=39d353&fire=ff9900&currStreakLabel=39d353&sideLabels=39d353&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisalib15&theme=github-dark-blue&border=39d353&ring=39d353&fire=ff9900&currStreakLabel=39d353&sideLabels=39d353&dates=888888" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisalib15&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=false&border_color=39d353" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisalib15&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&border_color=39d353" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=darkhub&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=darkhub&margin-w=8&margin-h=8" />
 
 </div>
 
 ---
 
-## 💬 A word from me
-
-<div align="center">
-
-> *"Most people dream about building something. I just open VS Code and start."*
->
-> — Haris, probably at 2am 🌙
-
-</div>
-
----
-
-## 🌐 Find me
+## find me
 
 <div align="center">
 
@@ -131,7 +144,7 @@ const haris = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harisalib15&label=Profile+Views&color=39d353&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=harisalib15&label=profile+views&color=39d353&style=for-the-badge)
 
 </div>
 
@@ -139,6 +152,14 @@ const haris = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:0d1117&height=130&section=footer&text=let's+build+something+legendary+%F0%9F%9A%80&fontSize=18&fontColor=39d353&animation=twinkling" width="100%" />
+> *"most people dream about building something. i just open vs code and start."*
+>
+> — haris, probably at 2am 🌙
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:0d1117&height=130&section=footer&text=let%27s+build+something+legendary+%F0%9F%9A%80&fontSize=18&fontColor=39d353&animation=twinkling" width="100%" />
 
 </div>
