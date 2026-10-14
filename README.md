@@ -88,9 +88,9 @@ Node.js internals, JWT authentication patterns, and cloud deployment, including 
 ## This year in contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake.svg">
-  <img alt="Animated snake eating my current calendar year GitHub contribution graph" src="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake.svg?v=2">
+  <img alt="Animated snake eating my current calendar year GitHub contribution graph" src="https://raw.githubusercontent.com/HarisAliB15/HarisAliB15/main/assets/github-snake.svg?v=2" width="100%">
 </picture>
 
 <sub>Current calendar year · Refreshed daily with GitHub Actions · Animation by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
@@ -126,5 +126,6 @@ Open to **React Native** and **full-stack development** opportunities.
 <sub>From Multan, Pakistan — building, learning, and improving with every project.</sub>
 
 </div>
+
 
 

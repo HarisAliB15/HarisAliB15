@@ -9,6 +9,7 @@ on:
     paths:
       - '.github/workflows/MAIN.yml'
       - '.github/scripts/calendar-year.cjs'
+      - '.github/scripts/style-snake.cjs'
 
 permissions:
   contents: write
@@ -39,6 +40,8 @@ jobs:
           INPUT_OUTPUTS: |
             assets/github-snake.svg?color_snake=%2314b8a6
             assets/github-snake-dark.svg?palette=github-dark&color_snake=%2367e8c2
+      - name: Make the eating effect clearly visible
+        run: node .github/scripts/style-snake.cjs
       - name: Save updated animations
         run: |
           git config user.name 'github-actions[bot]'
