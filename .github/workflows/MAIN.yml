@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/MAIN.yml'
+      - '.github/scripts/calendar-year.cjs'
 
 permissions:
   contents: write
@@ -23,15 +24,21 @@ jobs:
     steps:
       - name: Check out profile
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - name: Generate light and dark animations
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+      - name: Check out pinned snake generator
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          repository: Platane/snk
+          ref: d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+          path: .snake-tool
+          persist-credentials: false
+      - name: Generate current calendar year animations
+        run: node --require ./.github/scripts/calendar-year.cjs .snake-tool/svg-only/dist/index.js
+        env:
+          INPUT_GITHUB_USER_NAME: ${{ github.repository_owner }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_OUTPUTS: |
             assets/github-snake.svg?color_snake=%2314b8a6
             assets/github-snake-dark.svg?palette=github-dark&color_snake=%2367e8c2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save updated animations
         run: |
           git config user.name 'github-actions[bot]'
