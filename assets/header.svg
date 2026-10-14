@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Haris Ali Asghar — Web. Mobile. What comes next.</title>
+  <desc id="desc">MERN stack and React Native developer in Multan, Pakistan. A midnight blue developer workbench with mint circuit lines.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#243345" stroke-width="1" opacity=".4"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1320"/><stop offset="1" stop-color="#122537"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#67e8c2"/><stop offset="1" stop-color="#7cb7ff"/></linearGradient>
+  </defs>
+  <style>
+    @keyframes pulse { 0%,100% { opacity:.25; r:7px; } 50% { opacity:.7; r:13px; } }
+    @keyframes signal { to { stroke-dashoffset:-240; } }
+    @keyframes glow { 0%,100% { fill:#f1f6fc; } 50% { fill:#8bf0d1; } }
+    @keyframes cursor { 0%,45% { opacity:1; } 50%,100% { opacity:0; } }
+    @keyframes breathe { 0%,100% { stroke:#315c51; } 50% { stroke:#67e8c2; } }
+    .pulse { animation:pulse 3s ease-in-out infinite; }
+    .signal { stroke-dasharray:18 222; animation:signal 4s linear infinite; }
+    .signal.second { animation-delay:-1.5s; animation-duration:5s; }
+    .signal.third { animation-delay:-2.5s; }
+    .name { animation:glow 7s ease-in-out infinite; }
+    .cursor { animation:cursor 1.3s steps(1) infinite; }
+    .status { animation:breathe 3s ease-in-out infinite; }
+    @media (prefers-reduced-motion:reduce) { .pulse,.signal,.name,.cursor,.status { animation:none; } .pulse,.signal { display:none; } }
+  </style>
+  <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+  <path d="M0 1H1200" stroke="#67e8c2" stroke-width="3"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <circle class="pulse" cx="60" cy="57" r="7" fill="none" stroke="#67e8c2" opacity=".25"/>
+    <circle cx="60" cy="57" r="5" fill="#67e8c2"/>
+    <text x="76" y="63" font-size="13" letter-spacing="3" fill="#a9c4d3">HARIS / DEVELOPER WORKBENCH</text>
+    <text class="name" x="55" y="148" font-size="55" font-weight="700" letter-spacing="-2" fill="#f1f6fc">Haris Ali Asghar</text>
+    <text x="58" y="202" font-size="32" font-weight="600" fill="#67e8c2">Web. Mobile. What comes next.</text>
+    <text x="58" y="251" font-size="18" fill="#b3c4d7">Building full-stack applications and mobile experiences.</text>
+    <rect class="status" x="58" y="297" width="131" height="33" rx="16" fill="#1b3b39" stroke="#315c51"/>
+    <text x="78" y="319" font-size="12" letter-spacing="1" fill="#8bf0d1">OPEN TO WORK</text>
+    <text x="208" y="319" font-size="13" fill="#a9bbce">MULTAN, PAKISTAN</text>
+    <text x="58" y="383" font-size="12" letter-spacing="2" fill="#839ab2">REACT / REACT NATIVE / NODE.JS</text>
+  </g>
+  <g fill="none" stroke="#b9ffe9" stroke-width="4" stroke-linecap="round">
+    <path class="signal" d="M848 185H804V250H766"/>
+    <path class="signal second" d="M1112 226H1144V339H1034"/>
+    <path class="signal third" d="M965 305V355H873"/>
+  </g>
+  <rect class="cursor" x="1069" y="262" width="7" height="15" fill="#67e8c2"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <rect x="848" y="95" width="264" height="210" rx="14" fill="#0c1928"/>
+    <path d="M848 132H1112" stroke="#2c4055"/>
+    <path d="M848 185H804V250H766M1112 226H1144V339H1034M965 305V355H873"/>
+    <path d="m935 173-26 26 26 26m89-52 26 26-26 26m-37-65-20 80" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#67e8c2"><circle cx="868" cy="114" r="3"/><circle cx="882" cy="114" r="3" opacity=".6"/><circle cx="896" cy="114" r="3" opacity=".3"/><circle cx="766" cy="250" r="4"/><circle cx="1034" cy="339" r="4"/><circle cx="873" cy="355" r="4"/></g>
+  <text x="899" y="275" fill="#9db5ce" font-family="Consolas,monospace" font-size="12" letter-spacing="2">BUILD / LEARN / REPEAT</text>
+</svg>

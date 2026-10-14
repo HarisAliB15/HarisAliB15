@@ -1,165 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d1f,100:0d1117&height=200&section=header&text=Haris%20Ali%20Asghar&fontSize=55&fontColor=39d353&animation=twinkling&fontAlignY=50&stroke=39d353&strokeWidth=1" width="100%" />
+![Haris Ali Asghar — Web. Mobile. What comes next.](./assets/header.svg)
+
+**Full-stack & React Native developer**
+
+React interfaces. Node.js APIs. Mobile experiences.
+
+Multan, Pakistan · Open to developer roles and collaborations
+
+[Featured project](#featured-project--gympro) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/haris-ali-asghar-a) &nbsp; / &nbsp; [Get in touch](mailto:haris.asghar.developer@gmail.com)
 
 </div>
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=39D353&center=true&vCenter=true&width=700&lines=mern+stack+dev+who+actually+ships+%F0%9F%9A%80;react+native+%7C+expo+%7C+firebase+%7C+ci%2Fcd;building+an+ai+voice+assistant+rn+%F0%9F%A4%96;gymPro+app+%E2%80%94+ci+pipeline+live+%E2%9C%85;from+pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+world+%F0%9F%8C%8D;open+to+work+%E2%80%94+let%27s+build+something+crazy)](https://git.io/typing-svg)
+I’m Haris. I build web and mobile applications with React, React Native, and Node.js. My current focus is **GymPro**: bringing workout planning, session logging, nutrition, and progress into one mobile experience.
 
-</div>
-
----
-
-## `whoami`
-
-```ts
-const haris = {
-  name              : "Haris Ali Asghar",
-  role              : "MERN Stack Developer",
-  location          : "Multan, Pakistan",
-  currently_building: ["AI Voice Assistant", "GymPro App"],
-  obsessing_over    : ["CI/CD pipelines", "Node internals", "JWT auth", "Cloud infra"],
-  ask_me_about      : ["React", "React Native", "Expo", "Firebase", "Full-Stack"],
-  email             : "haris.asghar.developer@gmail.com",
-  vibe              : "ship fast · learn faster · never settle",
-  open_to_work      : true  // hire me. seriously.
-};
-```
+I’m interested in the work behind the interface, too: authentication, backend development, and automated build checks.
 
 ---
 
-## what i'm on rn
+## Featured project · GymPro
 
-| | |
-|--|--|
-| 🤖 | **AI Voice Assistant** — because typing is old, talking is the future |
-| 💪 | **GymPro App** — React Native + Expo + Firebase + CI/CD pipeline live ✅ |
-| ⚙️ | **CI/CD** — Fastlane + GitHub Actions, green checkmarks on every push |
-| ☁️ | **Cloud deployment** — Render · Vercel · Firebase · AWS basics |
-| 🔐 | **JWT Auth** — getting deep into secure backend patterns |
+**Plan your training. Log the work. See your progress.**
 
----
+A fitness app built with **React Native, Expo, and Firebase**, with GitHub Actions and Fastlane in the development workflow.
 
-## projects
+**Private repository** · Product showcase below
 
-### 💪 GymPro — Gym Companion App
-> React Native · Expo · Firebase · Fastlane · GitHub Actions
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="./assets/gympro-workout.jpeg"><img src="./assets/gympro-workout.jpeg" alt="GymPro workout session showing per-set weight and rep inputs, completion controls, and a rest timer" width="280"></a></td>
+    <td width="33%" align="center"><a href="./assets/gympro-nutrition.png"><img src="./assets/gympro-nutrition.png" alt="GymPro nutrition dashboard with calorie and macro rings, food search, and barcode scanning" width="280"></a></td>
+    <td width="33%" align="center"><a href="./assets/gympro-progress.png"><img src="./assets/gympro-progress.png" alt="GymPro progress screens showing training consistency, body-weight history, and lifting logs" width="280"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Train with focus</strong><br><sub>Sets, reps, weights, and rest</sub></td>
+    <td align="center"><strong>Make nutrition visible</strong><br><sub>Food search, scanning, and macros</sub></td>
+    <td align="center"><strong>Follow your progress</strong><br><sub>Consistency, trends, and history</sub></td>
+  </tr>
+</table>
 
-Full-featured gym companion with workout plans, nutrition tracking, and progress analytics. CI pipeline runs automatically on every push — auto lint + build checks.
+<sub>Select any image for a closer look. Screens show example in-app data.</sub>
 
-![CI](https://img.shields.io/github/actions/workflow/status/HarisAliB15/GymPro/ci.yml?label=CI&style=flat-square&color=39d353&labelColor=0d1117)
-![Stack](https://img.shields.io/badge/stack-React%20Native%20%2B%20Expo-39d353?style=flat-square&labelColor=0d1117)
+### What you can do
 
-**Features:**
-- 🏋️ Workout plans with exercise tracking
-- 🍎 Nutrition screen
-- 📊 Progress charts
-- 🔐 Firebase authentication
-- ⚙️ CI/CD with Fastlane + GitHub Actions
+- **Log a workout as you train.** Record weights and reps per set, mark completion, add sets, and follow a built-in rest timer.
+- **Track nutrition in one place.** Search foods or scan a barcode, log meals, and review calorie and macro totals.
+- **See progress over time.** Review program completion, weekly training activity, body-weight trends, and lifting history.
+- **Build your own routines.** Search and filter exercises by muscle group, save routines, and launch timed benchmarks.
+- **Plan meals around your preferences.** Choose a calorie target and diet style, generate a meal plan, explore recipes, and log meals to the day.
 
----
+<details>
+<summary><strong>Explore meal planning and custom routines</strong></summary>
 
-### 🤖 AI Voice Assistant
-> Node.js · NLP · Real-time
+<br>
 
-Talking to a UI is the future. Building it now.
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="./assets/gympro-meal-plans.png"><img src="./assets/gympro-meal-plans.png" alt="GymPro meal planning with calorie targets, diet styles, recipes, and full-day logging" width="360"></a></td>
+    <td width="50%" align="center"><a href="./assets/gympro-routines.png"><img src="./assets/gympro-routines.png" alt="GymPro exercise search, muscle-group filters, saved custom routines, and timed benchmarks" width="360"></a></td>
+  </tr>
+</table>
 
----
+</details>
 
-## stack
+### Behind the app
 
-<div align="center">
+`React Native` `Expo` `Firebase` `GitHub Actions` `Fastlane`
 
-### frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Mobile:** React Native and Expo for the application.
+- **Authentication:** Firebase authentication.
+- **Build workflow:** Automated lint and build checks through GitHub Actions, with Fastlane in the toolchain.
 
-### backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### devops & tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-
-### languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
+Interested in the project or my approach? [Let’s talk →](mailto:haris.asghar.developer@gmail.com?subject=Let%27s%20talk%20about%20GymPro)
 
 ---
 
-## numbers don't lie
+## Also on my workbench
 
-<div align="center">
+**AI Voice Assistant** · In development  
+Exploring voice-driven interaction with Node.js, natural language processing, and real-time responses.
 
-<img src="https://github-readme-stats.vercel.app/api?username=harisalib15&show_icons=true&theme=github_dark_dimmed&border_radius=12&border_color=39d353&count_private=true&include_all_commits=true&ring_color=39d353&icon_color=39d353&title_color=39d353" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisalib15&layout=compact&theme=github_dark_dimmed&border_radius=12&border_color=39d353&title_color=39d353&langs_count=8" height="170"/>
+**Currently learning**  
+Node.js internals, JWT authentication patterns, and cloud deployment, including AWS fundamentals.
 
-</div>
+## Tech stack
 
-<div align="center">
+| Area | Tools |
+| :--- | :--- |
+| **Mobile** | React Native · Expo |
+| **Web** | React · TypeScript · JavaScript · Tailwind CSS |
+| **Backend & data** | Node.js · Express · MongoDB · Firebase |
+| **Delivery** | Git · GitHub Actions · Fastlane · Vercel · Render |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harisalib15&theme=github-dark-blue&border=39d353&ring=39d353&fire=ff9900&currStreakLabel=39d353&sideLabels=39d353&dates=888888" />
+<details>
+<summary>Additional languages</summary>
 
-</div>
+Python · Java · C++
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisalib15&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&border_color=39d353" width="100%"/>
-
-</div>
-
----
-
-## trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harisalib15&theme=darkhub&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## find me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-ali-asghar-a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harisali526)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haris.asghar.developer@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=harisalib15&label=profile+views&color=39d353&style=for-the-badge)
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-> *"most people dream about building something. i just open vs code and start."*
->
-> — haris, probably at 2am 🌙
+### Let’s build something useful.
 
-</div>
+Open to **React Native** and **full-stack development** opportunities.
 
-<div align="center">
+**[Email](mailto:haris.asghar.developer@gmail.com)** &nbsp; · &nbsp; **[LinkedIn](https://linkedin.com/in/haris-ali-asghar-a)** &nbsp; · &nbsp; **[GitHub](https://github.com/HarisAliB15)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:0d1117&height=130&section=footer&text=let%27s+build+something+legendary+%F0%9F%9A%80&fontSize=18&fontColor=39d353&animation=twinkling" width="100%" />
+<sub>From Multan, Pakistan — building, learning, and improving with every project.</sub>
 
 </div>
